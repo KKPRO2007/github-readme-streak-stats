@@ -1,0 +1,21 @@
+# Generated files
+vendor/
+node_modules/
+*.log
+composer.phar
+yarn.lock
+package-lock.json
+.vercel
+
+# Local Configuration
+.DS_Store
+
+# Environment
+.env
+.php-version
+DOCKER_ENV
+docker_tag
+
+# IDE
+.vscode/
+.idea/
